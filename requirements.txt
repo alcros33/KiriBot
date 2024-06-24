@@ -1,0 +1,7 @@
+discord.py[voice]
+Pillow
+httpx
+opencv-python
+numpy
+yt-dlp
+d20

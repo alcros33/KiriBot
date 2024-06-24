@@ -1,0 +1,7 @@
+{
+    "OWNERID": YOUR_DISCORD_ID,
+    "PREFIX": "-",
+    "TOKEN": "YOUR_TOKEN",
+    "DESCRIPTION": "A cool description",
+    "COGS_DIR": "Cogs/"
+}
